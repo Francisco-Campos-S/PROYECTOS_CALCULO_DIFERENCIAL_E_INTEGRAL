@@ -1,8 +1,0 @@
-98cf83f1cfd675d2f831c2e9f1c430f6fb5648a3 commit	refs/heads/P3
-274f564b0fda9f5ad6bc1b232cf506dae38b8054 commit	refs/heads/main
-274f564b0fda9f5ad6bc1b232cf506dae38b8054 commit	refs/remotes/origin/HEAD
-206ee1a7315f51ea6e814cd49f0536ac1c607909 commit	refs/remotes/origin/P2
-bd0cdcb6e33011fe25ac0a3e07c1660e0ba6b672 commit	refs/remotes/origin/P3
-274f564b0fda9f5ad6bc1b232cf506dae38b8054 commit	refs/remotes/origin/main
-997910618f3de8b31711178f016e6bd9a0b1441a commit	refs/remotes/upstream/HEAD
-997910618f3de8b31711178f016e6bd9a0b1441a commit	refs/remotes/upstream/main
